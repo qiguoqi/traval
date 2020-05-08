@@ -112,7 +112,7 @@
     bottom 0
     height .44rem
     line-height .44rem
-    white-space nowrap
+    text-align center
     color $darkTextColor
     ellipsis()
 </style>
